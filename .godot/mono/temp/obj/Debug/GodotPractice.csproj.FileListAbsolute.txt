@@ -1,0 +1,17 @@
+D:\Godot Projects\Godot Practice\.godot\mono\temp\bin\Debug\GodotPractice.deps.json
+D:\Godot Projects\Godot Practice\.godot\mono\temp\bin\Debug\GodotPractice.runtimeconfig.json
+D:\Godot Projects\Godot Practice\.godot\mono\temp\bin\Debug\GodotPractice.dll
+D:\Godot Projects\Godot Practice\.godot\mono\temp\bin\Debug\GodotPractice.pdb
+D:\Godot Projects\Godot Practice\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\Godot Projects\Godot Practice\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\GodotPractice.csproj.AssemblyReference.cache
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\GodotPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\GodotPractice.AssemblyInfoInputs.cache
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\GodotPractice.AssemblyInfo.cs
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\GodotPractice.csproj.CoreCompileInputs.cache
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\GodotPractice.csproj.CopyComplete
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\GodotPractice.dll
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\refint\GodotPractice.dll
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\GodotPractice.pdb
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\GodotPractice.genruntimeconfig.cache
+D:\Godot Projects\Godot Practice\.godot\mono\temp\obj\Debug\ref\GodotPractice.dll
